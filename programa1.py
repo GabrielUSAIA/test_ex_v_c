@@ -2,4 +2,6 @@
 #Aca inicia 
 print("test")
 print("Corregir connect")
+x = "Hola"
+print(x)
 #Aca termima 
